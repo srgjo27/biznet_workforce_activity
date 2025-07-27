@@ -29,3 +29,8 @@ Aplikasi ini dibangun dengan arsitektur yang bersih, modular, dan terstruktur.
 ## Instalasi dan Menjalankan
 
 - Clone Repository: https://github.com/srgjo27/biznet_workforce_activity.git
+- Buka direktori proyek di text editor seperti Visual Studio Code, Android Stuido, Cursor AI, dll.
+- Lakukan flutter pub get untuk mengunduh semua depedensi yang digunakan.
+- Lakukan flutter run untuk menjalankan aplikasi pada emulator atau perangkat hp.
+- Lakukan flutter build apk --release untuk melakukan build bundle dalam ektensi .apk
+- Build akan tersedia di build/app/outputs/flutter-apk/app-release.apk
